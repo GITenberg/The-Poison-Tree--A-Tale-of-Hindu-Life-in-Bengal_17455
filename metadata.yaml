@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7399
     wikipedia: http://en.wikipedia.org/wiki/Bankim_Chandra_Chattopadhyay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17455#The-Poison-Tree--A-Tale-of-Hindu-Life-in-Bengal
 gutenberg_bookshelf: India
 gutenberg_issued: '2006-01-04'
 gutenberg_type: Text
