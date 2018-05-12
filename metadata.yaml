@@ -1,0 +1,38 @@
+_repo: The-Poison-Tree--A-Tale-of-Hindu-Life-in-Bengal_17455
+_version: 0.1.0
+alternative_title: Bisha Briksha
+contributor:
+  translator:
+    agent_name: Knight, Miriam S.
+    gutenberg_agent_id: '7400'
+    url: http://www.gutenberg.org/2009/agents/7400
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chatterji, Bankim Chandra
+    aliases:
+    - Chattopadhyay, Bankim Chandra
+    - Chatterjee, Bankim Chandra
+    birthdate: 1838
+    deathdate: 1894
+    gutenberg_agent_id: '7399'
+    url: http://www.gutenberg.org/2009/agents/7399
+    wikipedia: http://en.wikipedia.org/wiki/Bankim_Chandra_Chattopadhyay
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2006-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social life and customs -- Fiction'
+- !lcc 'PK'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: 'The Poison Tree: A Tale of Hindu Life in Bengal'
+url: http://www.gutenberg.org/ebooks/17455
